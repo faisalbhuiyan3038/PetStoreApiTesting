@@ -1,0 +1,10 @@
+# Ignore node_modules directory
+node_modules/
+
+# Optional: Ignore other common Node.js related files and directories
+npm-debug.log
+yarn-error.log
+.npm
+.yarn
+.pnp
+.pnp.js
